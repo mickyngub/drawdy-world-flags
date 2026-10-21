@@ -1,0 +1,13 @@
+{
+    "driverId": "mickyngub.world-flags",
+    "driverName": "World Flags",
+    "driverVersion": "1.0.0",
+    "description": "Every country flag, one drag away from your board, for geography lessons, travel plans, global team maps and match predictions. Pick a region such as Africa, Asia or Europe, or search by name, code or nickname like UK or Holland, then drag a flag onto the board or click to add it in view. Choose round, rectangle or square flags in four sizes, each with the country's name underneath, and they stay sharp when zoomed.",
+    "icon": "icon.png",
+    "main": "main.js",
+    "permissions": [
+        "dom",
+        "scene",
+        "storage"
+    ]
+}
