@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- The panel now uses Drawdy's own colours and font, with a more compact header so more flags fit
+- Round, Rectangle and Square sit beside the sizes, and Label moved next to the search box
+- Selected options are grey instead of lime
+
 ## 1.0.0
 
 First public release

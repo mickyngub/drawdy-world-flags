@@ -1,7 +1,7 @@
 {
     "driverId": "mickyngub.world-flags",
     "driverName": "World Flags",
-    "driverVersion": "1.0.0",
+    "driverVersion": "1.0.1",
     "description": "Every flag, labelled, one drag away. Search 265 country and region flags by name, code or nickname (Japan, JP, UK) or browse by region, then drag one onto the board or click to add it in view. Each lands with the country's name underneath, round, rectangle or square. Made for geography lessons, trip plans, team maps and match brackets.",
     "icon": "icon.png",
     "main": "main.js",
